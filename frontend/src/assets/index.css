@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+table tr svg{
+    cursor: pointer;
+}
